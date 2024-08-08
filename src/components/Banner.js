@@ -48,7 +48,7 @@ export const Banner = () => {
                     <p>Hello all, I am a recent graduate from CSU, I enjoy software engineer but also have some experience in other fields. I 
                         am also familiar with cyber security, algorithms, Machine learning, Object oriented designs, and so on. I look 
                         to keep growing as a programmer and hope to land oportunities that will help me keep growing as a Software Engineer 
-                        and a Computetr Scientist </p>
+                        and a Computetr Scientist. </p>
                     <button onClick={() => console.log('connect')}>Let's connect <FaArrowCircleRight size={25}/></button>
                     </Col>
 
